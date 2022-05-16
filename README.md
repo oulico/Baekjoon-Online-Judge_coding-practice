@@ -1,6 +1,6 @@
-# Baekjoon-Online-Judge_coding-practice
+# Baekjoon-Online-Judge_Node.JS
 
-[백준 알고리즘](https://www.acmicpc.net/)의 문제를 단계별로 풀어봅니다.
+[백준 알고리즘](https://www.acmicpc.net/)의 문제를 Node.JS를 이용해 단계별로 풀어봅니다.
 
 ## 문제 리스트
 
